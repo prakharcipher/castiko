@@ -24,7 +24,7 @@ class Landing extends Component {
               padding: '10px',
               textAlign: 'center',
               borderRadius: '5px',
-              color: 'white',
+              color: 'black',
               fontWeight: 'bold',
               textDecoration: 'none',
               margin: 'auto'
